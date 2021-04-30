@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+    background-image: linear-gradient(90deg, white 0%, red);
+}
+
+
+.button{
+    width:  100px;
+    height:  30px;
+    background-color: white;
+    border-color:  lightblue
+}
+
+
+.lgbutton{
+    background-color: white;
+    border-color:  lightblue;
+    width:  150px;
+    height:  30px;
+    border-radius: 12;
+}
+
+.lgbutton1{
+    background-color:  white;
+    border-color:  lightblue;
+    width:  120px;
+    height:  30px;
+    border-radius:  12;
+}
+
+.mainTable{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
